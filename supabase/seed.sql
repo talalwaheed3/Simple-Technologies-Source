@@ -1,0 +1,1 @@
+-- Source-grounded seeds use scripts/seed.ts after schema setup. No public sample data.

@@ -1,0 +1,16 @@
+node_modules/
+.next/
+.env*
+!.env.example
+coverage/
+playwright-report/
+test-results/
+*.tsbuildinfo
+.vercel/
+.supabase/
+supabase/.temp/
+private-imports/
+conversations.json
+chat.html
+*-export.zip
+.vercel

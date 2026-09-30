@@ -1,0 +1,133 @@
+{
+  "reviewed": "2026-09-24",
+  "basis": "Independent troubleshooting guidance, not confirmation of original case outcomes",
+  "sources": {
+    "45c8a050-1372-5f7c-927f-3d7b65396cf3": [
+      "https://pypi.org/project/opencv-python/"
+    ],
+    "4225c1fd-0c35-5d4e-8d3b-a2a2d90fc65e": [
+      "https://docs.sqlalchemy.org/en/20/orm/session_basics.html"
+    ],
+    "865072c2-d813-52f8-9338-b7d817800abc": [
+      "https://angular.dev/guide/templates/binding"
+    ],
+    "5914ffa1-ec23-5bcc-89d2-12467ce70207": [
+      "https://www.emailjs.com/docs/sdk/send/",
+      "https://vercel.com/docs/environment-variables"
+    ],
+    "d69c42f3-3ba6-5c71-a739-19fc817c85d9": [
+      "https://support.microsoft.com/en-us/windows/experience/backup-recovery/using-system-file-checker-in-windows",
+      "https://support.microsoft.com/en-US/windows/bd88ffdf-1e8e-34a0-d76f-39a71fb4ed4d"
+    ],
+    "ac6df7bf-e3b9-59e0-bcb3-ebdd06b17ca2": [
+      "https://support.microsoft.com/en-us/windows/experience/backup-recovery/using-system-file-checker-in-windows",
+      "https://support.microsoft.com/en-US/windows/bd88ffdf-1e8e-34a0-d76f-39a71fb4ed4d"
+    ],
+    "2b4f7726-3994-5a31-9032-f5c3b644e9d7": [
+      "https://www.dell.com/support/kbdoc/en-ie/000126066/how-to-diagnose-and-resolve-common-memory-issues-on-a-dell-notebook-pc"
+    ],
+    "fb8445c2-cae7-565d-af44-e2bddd1a08b9": [
+      "https://support.hp.com/ch-de/document/ish_6930187-6931079-16?fallbackLocale=us-en&validated=true"
+    ],
+    "74fb3c05-3124-5bec-bb6f-87ca47507aa8": [
+      "https://www.amd.com/en/resources/support-articles/faqs/GPU-55.html"
+    ],
+    "e6d0e81b-6050-5839-b6b5-27de2eee54ed": [
+      "https://ventoy.net/en/doc_start.html"
+    ],
+    "ca1dde71-a425-5e32-82fc-9647303f81ea": [
+      "https://www.dell.com/support/kbdoc/en-us/000125609/resolve-no-power-no-post-no-boot-or-no-video-issues-with-your-dell-computer"
+    ],
+    "f526d878-7b48-56d5-a390-d1fb7d5df85e": [
+      "https://ventoy.net/en/doc_start.html"
+    ],
+    "e4199874-5508-5767-89c1-8b6915f73f2c": [
+      "https://support.microsoft.com/en-us/windows/experience/connectivity-networking/fix-wi-fi-connection-issues-in-windows"
+    ],
+    "0acc8f56-63ee-5fe2-8e5f-6aa055356c77": [
+      "https://www.asus.com/np/support/faq/1013017/"
+    ],
+    "699a0dc2-99ce-57c7-a296-d07a68baddac": [
+      "https://www.gnu.org/software/ddrescue/manual/ddrescue_manual.html"
+    ],
+    "088121d2-a457-5603-8806-e58c7739f4c7": [
+      "https://www.dell.com/support/kbdoc/en-us/000178928/how-to-troubleshoot-slow-performance-issues"
+    ],
+    "ca23deca-1085-5115-a588-7784db4fab95": [
+      "https://support.hp.com/us-en/drivers"
+    ],
+    "9202797d-8498-529b-bdbc-043363f2b9e6": [
+      "https://entechtaiwan.com/free.shtm"
+    ],
+    "f2c4f221-0c79-5347-9ac5-726db2d901d2": [
+      "https://www.asus.com/np/support/faq/1013017/",
+      "https://support.hp.com/ch-de/document/ish_6930187-6931079-16?fallbackLocale=us-en&validated=true"
+    ],
+    "34db7bb4-2693-5877-8df4-ebf15a1f44e4": [
+      "https://www.gnu.org/software/ddrescue/manual/ddrescue_manual.html",
+      "https://support.hp.com/us-en/drivers"
+    ],
+    "206339c3-923a-5141-8657-6225f42db895": [
+      "https://support.apple.com/en-ie/102622",
+      "https://support.apple.com/en-gb/102522",
+      "https://support.apple.com/en-gb/102603"
+    ],
+    "2c065715-c0c4-5dc1-8aa9-dc7e435e6daa": [
+      "https://support.microsoft.com/en-US/windows/bd88ffdf-1e8e-34a0-d76f-39a71fb4ed4d",
+      "https://www.dell.com/support/kbdoc/en-ie/000126066/how-to-diagnose-and-resolve-common-memory-issues-on-a-dell-notebook-pc"
+    ],
+    "07872176-6000-5aa3-9076-e52c6c05e511": [
+      "https://www.dell.com/support/kbdoc/en-us/000140298/dell-support-for-lost-bios-password"
+    ],
+    "8dc57c6a-4305-5a21-9667-069612deabae": [
+      "https://www.dell.com/support/contents/en-us/article/product-support/self-support-knowledgebase/fix-common-issues/no-boot",
+      "https://support.microsoft.com/en-us/windows/experience/startup-boot/startup-repair"
+    ],
+    "ac779114-6436-5056-bd4b-9e212683a47f": [
+      "https://lumivero.com/resources/free-trial/nvivo/"
+    ],
+    "b58d85c0-4d05-506f-9135-fb5586d1c88f": [
+      "https://learn.microsoft.com/en-us/windows/deployment/mbr-to-gpt"
+    ],
+    "85e49cb3-d1df-55e6-97f7-a79f9d7ccf0d": [
+      "https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/invoke-restmethod?view=powershell-7.6"
+    ],
+    "1712c3dd-9529-50ed-9d59-e56b43063748": [
+      "https://support.apple.com/en-gb/102603",
+      "https://support.apple.com/en-ie/102622",
+      "https://support.microsoft.com/en-us/windows/experience/startup-boot/startup-repair"
+    ],
+    "3c3fb859-820b-5878-be9f-5677f7227056": [
+      "https://support.hp.com/us-en/drivers",
+      "https://support.microsoft.com/en-US/windows/bd88ffdf-1e8e-34a0-d76f-39a71fb4ed4d"
+    ],
+    "3e994639-7820-5eef-9c96-15082943f037": [
+      "https://www.sony.com/electronics/support/articles/00019997",
+      "https://www.sony.com/electronics/support/laptop-pc-vpc-series/vpcsa490x/articles/00010901"
+    ],
+    "298b3aa9-0d54-5ba7-9eb1-b06cbaf0a643": [
+      "https://support.microsoft.com/en-us/windows/experience/connectivity-networking/fix-wi-fi-connection-issues-in-windows"
+    ],
+    "c55085a9-8c43-5db3-8d70-c921eb844dee": [
+      "https://support.microsoft.com/en-us/windows/experience/startup-boot/startup-repair",
+      "https://support.microsoft.com/en-US/windows/bd88ffdf-1e8e-34a0-d76f-39a71fb4ed4d"
+    ],
+    "b44e8155-71f4-50e8-b500-cb519774c77a": [
+      "https://support.microsoft.com/en-us/surface/drivers-firmware/creating-and-using-a-usb-recovery-drive-for-surface"
+    ],
+    "62ad31d6-661c-5891-95fd-ebe40e2f0c59": [
+      "https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170"
+    ],
+    "48e20e6e-1886-525f-8fbd-dcfa06cc6484": [
+      "https://support.microsoft.com/en-us/windows/experience/startup-boot/startup-repair",
+      "https://www.gnu.org/software/ddrescue/manual/ddrescue_manual.html"
+    ],
+    "8a9e7fe2-0c78-5929-822f-d3951aac7d82": [
+      "https://help.gnome.org/gnome-help/keyboard-shortcuts-set.html",
+      "https://help.gnome.org/gnome-terminal/adv-keyboard-shortcuts.html"
+    ],
+    "4aa372f5-833b-5570-b1a1-9372024360ff": [
+      "https://support.microsoft.com/en-US/windows/bd88ffdf-1e8e-34a0-d76f-39a71fb4ed4d"
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+.git/
+.agents/
+.codex/
+.env*
+.vercel/
+.next/
+node_modules/
+coverage/
+test-results/
+playwright-report/
+verification-results/
+private-imports/
+conversations.json
+chat.html
+*-export.zip
+*.tsbuildinfo

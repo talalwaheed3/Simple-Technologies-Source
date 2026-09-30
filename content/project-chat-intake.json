@@ -1,0 +1,380 @@
+{
+  "review_date": "2026-09-24",
+  "source_count": 33,
+  "draft_count": 29,
+  "coverage": "Only the 33 visible project-chat excerpts, not an exhaustive chat/export audit.",
+  "groups": [
+    {
+      "group": "amd-identification",
+      "post_id": "74fb3c05-3124-5bec-bb6f-87ca47507aa8",
+      "case_id": "1d6dae9a-7846-5294-9416-49933b3e0838",
+      "sources": [
+        {
+          "number": 1,
+          "date": "2026-05-06",
+          "title": "Identifying AMD Radeon Card"
+        }
+      ]
+    },
+    {
+      "group": "multiboot-editions",
+      "post_id": "e6d0e81b-6050-5839-b6b5-27de2eee54ed",
+      "case_id": "f4d5c89f-e13a-549c-888e-193ba2daae56",
+      "sources": [
+        {
+          "number": 3,
+          "date": "2026-05-08",
+          "title": "Multiboot USB for Windows"
+        }
+      ]
+    },
+    {
+      "group": "dell-no-display",
+      "post_id": "ca1dde71-a425-5e32-82fc-9647303f81ea",
+      "case_id": "a40348d0-b0f5-51d0-ab5e-712488a74575",
+      "sources": [
+        {
+          "number": 4,
+          "date": "2026-05-11",
+          "title": "Dell Tower No Display"
+        }
+      ]
+    },
+    {
+      "group": "copy-isos",
+      "post_id": "f526d878-7b48-56d5-a390-d1fb7d5df85e",
+      "case_id": "72539ddd-a365-5d77-b49c-393bc21d8c08",
+      "sources": [
+        {
+          "number": 5,
+          "date": "2026-05-11",
+          "title": "Copying ISO Files Safely"
+        }
+      ]
+    },
+    {
+      "group": "router-led",
+      "post_id": "e4199874-5508-5767-89c1-8b6915f73f2c",
+      "case_id": "1a9b5a66-cc54-5a9d-8649-e72ef5b7113e",
+      "sources": [
+        {
+          "number": 6,
+          "date": "2026-05-13",
+          "title": "Wi-Fi Router Red Light"
+        }
+      ]
+    },
+    {
+      "group": "asus-boot",
+      "post_id": "0acc8f56-63ee-5fe2-8e5f-6aa055356c77",
+      "case_id": "d279e2bc-19a9-5dfb-8310-c990f9358845",
+      "sources": [
+        {
+          "number": 7,
+          "date": "2026-05-12",
+          "title": "ASUS laptop boot key"
+        }
+      ]
+    },
+    {
+      "group": "failing-hdd-recovery",
+      "post_id": "699a0dc2-99ce-57c7-a296-d07a68baddac",
+      "case_id": "230be64d-f802-5b29-a22f-2bc142ce73cb",
+      "sources": [
+        {
+          "number": 8,
+          "date": "2026-05-12",
+          "title": "Data Recovery for Beginners"
+        }
+      ]
+    },
+    {
+      "group": "dell-battery-slow",
+      "post_id": "088121d2-a457-5603-8806-e58c7739f4c7",
+      "case_id": "08d2692e-26e7-5300-913f-361160e9b162",
+      "sources": [
+        {
+          "number": 9,
+          "date": "2026-05-13",
+          "title": "Laptop slow on battery"
+        }
+      ]
+    },
+    {
+      "group": "hp-hotkeys",
+      "post_id": "ca23deca-1085-5115-a588-7784db4fab95",
+      "case_id": "ae26353e-abff-5235-81c5-083642e6c839",
+      "sources": [
+        {
+          "number": 10,
+          "date": "2026-05-16",
+          "title": "HP Hotkey Driver Issue"
+        }
+      ]
+    },
+    {
+      "group": "panel-identification",
+      "post_id": "9202797d-8498-529b-bdbc-043363f2b9e6",
+      "case_id": "53eb7044-200d-59fa-9112-1c8a95aa982f",
+      "sources": [
+        {
+          "number": 11,
+          "date": "2026-05-29",
+          "title": "Panel Model in MonInfo"
+        }
+      ]
+    },
+    {
+      "group": "usb-not-listed",
+      "post_id": "f2c4f221-0c79-5347-9ac5-726db2d901d2",
+      "case_id": "f4c61819-c49a-509d-bffd-04f4d006daae",
+      "sources": [
+        {
+          "number": 12,
+          "date": "2026-06-08",
+          "title": "USB Not Detected Boot"
+        }
+      ]
+    },
+    {
+      "group": "ssd-capacity",
+      "post_id": "34db7bb4-2693-5877-8df4-ebf15a1f44e4",
+      "case_id": "e32ff878-97d9-51be-b4d1-d6cac462b17e",
+      "sources": [
+        {
+          "number": 13,
+          "date": "2026-06-28",
+          "title": "SSD Partition Issues"
+        }
+      ]
+    },
+    {
+      "group": "mac2019-bootcamp",
+      "post_id": "206339c3-923a-5141-8657-6225f42db895",
+      "case_id": "4d41b9af-e141-59de-bc1d-1f716f0b46f1",
+      "sources": [
+        {
+          "number": 14,
+          "date": "2026-06-27",
+          "title": "Dual-boot macOS Windows 10"
+        },
+        {
+          "number": 15,
+          "date": "2026-06-27",
+          "title": "Erase data without reinstalling"
+        },
+        {
+          "number": 16,
+          "date": "2026-06-27",
+          "title": "MacBook Boot Menu Keys"
+        }
+      ]
+    },
+    {
+      "group": "post-install-bsod",
+      "post_id": "2c065715-c0c4-5dc1-8aa9-dc7e435e6daa",
+      "case_id": "51d51b78-da4a-53e6-9a8a-636a8fc7a6f9",
+      "sources": [
+        {
+          "number": 17,
+          "date": "2026-06-26",
+          "title": "BSOD Page Fault Fix"
+        }
+      ]
+    },
+    {
+      "group": "dell-firmware-password",
+      "post_id": "07872176-6000-5aa3-9076-e52c6c05e511",
+      "case_id": "f2aed1d7-5939-539c-99d0-ff32b3a766ff",
+      "sources": [
+        {
+          "number": 19,
+          "date": "2026-06-22",
+          "title": "Dell BIOS Password Solution"
+        }
+      ]
+    },
+    {
+      "group": "supportassist-startup",
+      "post_id": "8dc57c6a-4305-5a21-9667-069612deabae",
+      "case_id": "cc4d1778-a905-5071-9a27-459e42d08106",
+      "sources": [
+        {
+          "number": 20,
+          "date": "2026-06-17",
+          "title": "Disable SupportAssist Startup"
+        }
+      ]
+    },
+    {
+      "group": "nvivo-mac",
+      "post_id": "ac779114-6436-5056-bd4b-9e212683a47f",
+      "case_id": "b96ad205-07f2-5845-99cf-b2f7cd7b4192",
+      "sources": [
+        {
+          "number": 21,
+          "date": "2026-06-23",
+          "title": "NVivo Compatibility on Mac"
+        }
+      ]
+    },
+    {
+      "group": "mbr-gpt",
+      "post_id": "b58d85c0-4d05-506f-9135-fb5586d1c88f",
+      "case_id": "d1ffa16b-89ab-5b5d-a979-b3175775648b",
+      "sources": [
+        {
+          "number": 22,
+          "date": "2026-06-18",
+          "title": "MBR to GPT Conversion"
+        }
+      ]
+    },
+    {
+      "group": "powershell-irm",
+      "post_id": "85e49cb3-d1df-55e6-97f7-a79f9d7ccf0d",
+      "case_id": "2cf15857-d5ab-5a71-b9de-7e062873275f",
+      "sources": [
+        {
+          "number": 23,
+          "date": "2026-07-12",
+          "title": "PowerShell irm error fix"
+        }
+      ]
+    },
+    {
+      "group": "imac-install",
+      "post_id": "1712c3dd-9529-50ed-9d59-e56b43063748",
+      "case_id": "560903d0-41c5-5c84-9195-13260930160a",
+      "sources": [
+        {
+          "number": 24,
+          "date": "2026-07-12",
+          "title": "Booting Windows on iMac"
+        }
+      ]
+    },
+    {
+      "group": "legacy-media-driver",
+      "post_id": "3c3fb859-820b-5878-be9f-5677f7227056",
+      "case_id": "dd8f1a3e-f356-57eb-b84a-f27211582525",
+      "sources": [
+        {
+          "number": 25,
+          "date": "2026-07-11",
+          "title": "Fixing Media Driver Error"
+        }
+      ]
+    },
+    {
+      "group": "sony-assist",
+      "post_id": "3e994639-7820-5eef-9c96-15082943f037",
+      "case_id": "d05fd18c-eef2-59c9-b7dd-cd3e7eaac944",
+      "sources": [
+        {
+          "number": 26,
+          "date": "2026-07-12",
+          "title": "Sony VAIO Boot Menu"
+        }
+      ]
+    },
+    {
+      "group": "wifi-no-networks",
+      "post_id": "298b3aa9-0d54-5ba7-9eb1-b06cbaf0a643",
+      "case_id": "bdf0d05e-8d03-545f-ac1c-f93039cb6ab3",
+      "sources": [
+        {
+          "number": 27,
+          "date": "2026-07-11",
+          "title": "No Networks Available Solution"
+        }
+      ]
+    },
+    {
+      "group": "bad-system-config",
+      "post_id": "c55085a9-8c43-5db3-8d70-c921eb844dee",
+      "case_id": "3e2b00f3-0b70-5036-91ce-6d2896ebe4b3",
+      "sources": [
+        {
+          "number": 28,
+          "date": "2026-07-12",
+          "title": "BAD_SYSTEM_CONFIG_INFO Error"
+        }
+      ]
+    },
+    {
+      "group": "surface-install",
+      "post_id": "b44e8155-71f4-50e8-b500-cb519774c77a",
+      "case_id": "c3780e85-5338-5225-af2b-3554e2ecbda6",
+      "sources": [
+        {
+          "number": 29,
+          "date": "2026-07-18",
+          "title": "SSD Check and Fix"
+        }
+      ]
+    },
+    {
+      "group": "msvcp140-win7",
+      "post_id": "62ad31d6-661c-5891-95fd-ebe40e2f0c59",
+      "case_id": "d058dc3e-fb1f-54c8-8778-79bc2a44875d",
+      "sources": [
+        {
+          "number": 30,
+          "date": "2026-07-19",
+          "title": "Fixing MSVCP140.dll Error"
+        }
+      ]
+    },
+    {
+      "group": "ssd-bios-boot",
+      "post_id": "48e20e6e-1886-525f-8fbd-dcfa06cc6484",
+      "case_id": "e14c4209-8d95-5354-847b-3603d7cef0e2",
+      "sources": [
+        {
+          "number": 31,
+          "date": "2026-07-19",
+          "title": "128GB SSD BIOS Fix"
+        }
+      ]
+    },
+    {
+      "group": "debian-shortcuts",
+      "post_id": "8a9e7fe2-0c78-5929-822f-d3951aac7d82",
+      "case_id": "64164617-f6e2-5000-9077-dfec5408b5e0",
+      "sources": [
+        {
+          "number": 32,
+          "date": "2026-08-01",
+          "title": "Debian 13 Shortcut Keys"
+        }
+      ]
+    },
+    {
+      "group": "haier-boot",
+      "post_id": "4aa372f5-833b-5570-b1a1-9372024360ff",
+      "case_id": "23810f95-da5c-5cd8-8da8-0bc773d58740",
+      "sources": [
+        {
+          "number": 33,
+          "date": "2026-08-06",
+          "title": "Haier laptop boot key"
+        }
+      ]
+    }
+  ],
+  "image_only": [
+    {
+      "number": 2,
+      "date": "2026-05-07",
+      "title": "Windows setup EFI fix",
+      "missing": "Original screenshot and full replies."
+    },
+    {
+      "number": 18,
+      "date": "2026-06-27",
+      "title": "Brigadier Boot Camp Errors",
+      "missing": "Original screenshot, command output and replies."
+    }
+  ]
+}

@@ -1,0 +1,1046 @@
+{
+  "before": {
+    "recordedAt": "2026-09-29T18:40:49.701Z",
+    "origin": "https://simple-technologies.vercel.app",
+    "chrome": "154.0.8037.57",
+    "profile": {
+      "device": "Pixel 7",
+      "latencyMs": 150,
+      "downloadBytesPerSecond": 209715.2,
+      "uploadBytesPerSecond": 96000,
+      "cpuSlowdown": 4,
+      "observationAfterLoadMs": 2000
+    },
+    "notes": [
+      "Fresh browser context and disabled browser cache for every navigation; CDN state is recorded, not controlled.",
+      "All non-read requests are blocked or mocked; engagement totals are untouched.",
+      "4x CPU slowdown and 1.6 Mbps/150 ms network emulation run on this host; this is not a Lighthouse score or field data.",
+      "CLS and long tasks cover navigation through two seconds after load; no scrolling, advertising consent or interactions are performed.",
+      "Total blocking milliseconds sums long-task excess over 50 ms over the observation window; it is not Lighthouse TBT.",
+      "INP requires real interaction/field measurement and is not reported by this script.",
+      "TTFB can describe a streamed document shell; response-end and LCP measure when the rest of the page arrives and appears.",
+      "Next.js may cancel speculative prefetches; failed GET requests are reported with their type and prefetch header."
+    ],
+    "medians": [
+      {
+        "kind": "home",
+        "path": "/",
+        "ttfbMs": 400.6000000005588,
+        "fcpMs": 1252,
+        "lcpMs": 1252,
+        "cls": 0,
+        "scriptBytes": 147655,
+        "transferredBytes": 166575,
+        "totalBlockingMs": 128
+      },
+      {
+        "kind": "article",
+        "path": "/solutions/dell-firmware-password-document-the-authorized-support-route",
+        "ttfbMs": 268.70000000018626,
+        "fcpMs": 2488,
+        "lcpMs": 2488,
+        "cls": 0,
+        "scriptBytes": 156244,
+        "transferredBytes": 176090,
+        "totalBlockingMs": 133
+      }
+    ],
+    "results": [
+      {
+        "kind": "home",
+        "run": 1,
+        "path": "/",
+        "title": "Simple Technologies \u2014 Practical computer fixes",
+        "h1": "What problem areyou trying to fix?",
+        "htmlDecodedBytes": 52991,
+        "htmlEncodedBytes": 6491,
+        "ttfbMs": 946.9000000003725,
+        "responseEndMs": 1592.2000000001863,
+        "domContentLoadedMs": 2355.9000000003725,
+        "loadMs": 2945.0999999996275,
+        "fcpMs": 2364,
+        "lcp": {
+          "ms": 2364,
+          "element": "P",
+          "text": "Find the symptoms. Understand the cause. Follow a clear solution.Computer troubleshooting, grounded in real repair cases",
+          "image": null
+        },
+        "cls": 0,
+        "longestTaskMs": 171,
+        "totalBlockingMs": 121,
+        "horizontalOverflow": false,
+        "requests": 16,
+        "transferredBytes": 166643,
+        "scriptBytes": 147750,
+        "imageBytes": 0,
+        "largestTransfers": [
+          {
+            "type": "Script",
+            "path": "/_next/static/immutable/chunks/0s3rzqvjjc5tt.js",
+            "status": 200,
+            "encodedBytes": 73106
+          },
+          {
+            "type": "Script",
+            "path": "/_next/static/immutable/chunks/2e5v3vseouhnh.js",
+            "status": 200,
+            "encodedBytes": 44116
+          },
+          {
+            "type": "Script",
+            "path": "/_next/static/immutable/chunks/3dhnnw9wupw8y.js",
+            "status": 200,
+            "encodedBytes": 11642
+          },
+          {
+            "type": "Script",
+            "path": "/_next/static/immutable/chunks/2u5v7xdlfh11m.js",
+            "status": 200,
+            "encodedBytes": 9069
+          },
+          {
+            "type": "Document",
+            "path": "/",
+            "status": 200,
+            "encodedBytes": 7408
+          }
+        ],
+        "responseHeaders": {
+          "cache-control": "public, max-age=0, must-revalidate",
+          "x-vercel-cache": "STALE",
+          "x-vercel-id": "bom1::iad1::z84xm-1790707181382-b6a93f63a30f",
+          "age": "175397"
+        },
+        "preventedWrites": 0,
+        "errors": [],
+        "failedRequests": []
+      },
+      {
+        "kind": "home",
+        "run": 2,
+        "path": "/",
+        "title": "Simple Technologies \u2014 Practical computer fixes",
+        "h1": "What problem areyou trying to fix?",
+        "htmlDecodedBytes": 52991,
+        "htmlEncodedBytes": 6491,
+        "ttfbMs": 253.70000000018626,
+        "responseEndMs": 370.40000000037253,
+        "domContentLoadedMs": 735.7000000001863,
+        "loadMs": 1491.5,
+        "fcpMs": 736,
+        "lcp": {
+          "ms": 736,
+          "element": "P",
+          "text": "Find the symptoms. Understand the cause. Follow a clear solution.Computer troubleshooting, grounded in real repair cases",
+          "image": null
+        },
+        "cls": 0,
+        "longestTaskMs": 179,
+        "totalBlockingMs": 129,
+        "horizontalOverflow": false,
+        "requests": 17,
+        "transferredBytes": 166570,
+        "scriptBytes": 147655,
+        "imageBytes": 0,
+        "largestTransfers": [
+          {
+            "type": "Script",
+            "path": "/_next/static/immutable/chunks/0s3rzqvjjc5tt.js",
+            "status": 200,
+            "encodedBytes": 73057
+          },
+          {
+            "type": "Script",
+            "path": "/_next/static/immutable/chunks/2e5v3vseouhnh.js",
+            "status": 200,
+            "encodedBytes": 44076
+          },
+          {
+            "type": "Script",
+            "path": "/_next/static/immutable/chunks/3dhnnw9wupw8y.js",
+            "status": 200,
+            "encodedBytes": 11679
+          },
+          {
+            "type": "Script",
+            "path": "/_next/static/immutable/chunks/2u5v7xdlfh11m.js",
+            "status": 200,
+            "encodedBytes": 9092
+          },
+          {
+            "type": "Document",
+            "path": "/",
+            "status": 200,
+            "encodedBytes": 7409
+          }
+        ],
+        "responseHeaders": {
+          "cache-control": "public, max-age=0, must-revalidate",
+          "x-vercel-cache": "STALE",
+          "x-vercel-id": "bom1::iad1::zczqr-1790707185828-cbfb3db15986",
+          "age": "175401"
+        },
+        "preventedWrites": 0,
+        "errors": [],
+        "failedRequests": [
+          {
+            "path": "/solutions/dell-firmware-password-document-the-authorized-support-route",
+            "error": "net::ERR_ABORTED",
+            "resourceType": "fetch",
+            "prefetch": true
+          },
+          {
+            "path": "/solutions",
+            "error": "net::ERR_ABORTED",
+            "resourceType": "fetch",
+            "prefetch": true
+          },
+          {
+            "path": "/solutions/find-the-boot-menu-on-an-asus-laptop",
+            "error": "net::ERR_ABORTED",
+            "resourceType": "fetch",
+            "prefetch": true
+          }
+        ]
+      },
+      {
+        "kind": "home",
+        "run": 3,
+        "path": "/",
+        "title": "Simple Technologies \u2014 Practical computer fixes",
+        "h1": "What problem areyou trying to fix?",
+        "htmlDecodedBytes": 52991,
+        "htmlEncodedBytes": 6491,
+        "ttfbMs": 400.6000000005588,
+        "responseEndMs": 724.7000000001863,
+        "domContentLoadedMs": 1242.9000000003725,
+        "loadMs": 1848.5,
+        "fcpMs": 1252,
+        "lcp": {
+          "ms": 1252,
+          "element": "P",
+          "text": "Find the symptoms. Understand the cause. Follow a clear solution.Computer troubleshooting, grounded in real repair cases",
+          "image": null
+        },
+        "cls": 0,
+        "longestTaskMs": 178,
+        "totalBlockingMs": 128,
+        "horizontalOverflow": false,
+        "requests": 17,
+        "transferredBytes": 166575,
+        "scriptBytes": 147173,
+        "imageBytes": 0,
+        "largestTransfers": [
+          {
+            "type": "Script",
+            "path": "/_next/static/immutable/chunks/0s3rzqvjjc5tt.js",
+            "status": 200,
+            "encodedBytes": 73030
+          },
+          {
+            "type": "Script",
+            "path": "/_next/static/immutable/chunks/2e5v3vseouhnh.js",
+            "status": 200,
+            "encodedBytes": 43578
+          },
+          {
+            "type": "Script",
+            "path": "/_next/static/immutable/chunks/3dhnnw9wupw8y.js",
+            "status": 200,
+            "encodedBytes": 11619
+          },
+          {
+            "type": "Script",
+            "path": "/_next/static/immutable/chunks/2u5v7xdlfh11m.js",
+            "status": 200,
+            "encodedBytes": 9093
+          },
+          {
+            "type": "Document",
+            "path": "/",
+            "status": 200,
+            "encodedBytes": 7402
+          }
+        ],
+        "responseHeaders": {
+          "cache-control": "public, max-age=0, must-revalidate",
+          "x-vercel-cache": "HIT",
+          "x-vercel-id": "bom1::iad1::mg4hs-1790707189660-65e89f572491",
+          "age": "2"
+        },
+        "preventedWrites": 0,
+        "errors": [],
+        "failedRequests": [
+          {
+            "path": "/solutions",
+            "error": "net::ERR_ABORTED",
+            "resourceType": "fetch",
+            "prefetch": true
+          },
+          {
+            "path": "/solutions/find-the-boot-menu-on-an-asus-laptop",
+            "error": "net::ERR_ABORTED",
+            "resourceType": "fetch",
+            "prefetch": true
+          },
+          {
+            "path": "/solutions/dell-firmware-password-document-the-authorized-support-route",
+            "error": "net::ERR_ABORTED",
+            "resourceType": "fetch",
+            "prefetch": true
+          }
+        ]
+      },
+      {
+        "kind": "article",
+        "run": 1,
+        "path": "/solutions/dell-firmware-password-document-the-authorized-support-route",
+        "title": "Dell firmware password: document the authorized support route | Simple Technologies",
+        "h1": "Dell firmware password: document the authorized support route",
+        "htmlDecodedBytes": 36744,
+        "htmlEncodedBytes": 7278,
+        "ttfbMs": 302.29999999981374,
+        "responseEndMs": 2063.7000000001863,
+        "domContentLoadedMs": 2407.100000000559,
+        "loadMs": 3383.4000000003725,
+        "fcpMs": 2416,
+        "lcp": {
+          "ms": 2416,
+          "element": "H1",
+          "text": "Dell firmware password: document the authorized support route",
+          "image": null
+        },
+        "cls": 0,
+        "longestTaskMs": 184,
+        "totalBlockingMs": 134,
+        "horizontalOverflow": false,
+        "requests": 15,
+        "transferredBytes": 176086,
+        "scriptBytes": 156226,
+        "imageBytes": 0,
+        "largestTransfers": [
+          {
+            "type": "Script",
+            "path": "/_next/static/immutable/chunks/0s3rzqvjjc5tt.js",
+            "status": 200,
+            "encodedBytes": 73030
+          },
+          {
+            "type": "Script",
+            "path": "/_next/static/immutable/chunks/2e5v3vseouhnh.js",
+            "status": 200,
+            "encodedBytes": 43702
+          },
+          {
+            "type": "Script",
+            "path": "/_next/static/immutable/chunks/3dhnnw9wupw8y.js",
+            "status": 200,
+            "encodedBytes": 12051
+          },
+          {
+            "type": "Script",
+            "path": "/_next/static/immutable/chunks/2u5v7xdlfh11m.js",
+            "status": 200,
+            "encodedBytes": 9092
+          },
+          {
+            "type": "Script",
+            "path": "/_next/static/immutable/chunks/2r0172hosnf0m.js",
+            "status": 200,
+            "encodedBytes": 8556
+          }
+        ],
+        "responseHeaders": {
+          "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
+          "x-vercel-cache": "MISS",
+          "x-vercel-id": "bom1::iad1::lsrfb-1790707193607-7adf1e40522b",
+          "age": "0"
+        },
+        "preventedWrites": 1,
+        "errors": [],
+        "failedRequests": [
+          {
+            "path": "/solutions",
+            "error": "net::ERR_ABORTED",
+            "resourceType": "fetch",
+            "prefetch": true
+          }
+        ]
+      },
+      {
+        "kind": "article",
+        "run": 2,
+        "path": "/solutions/dell-firmware-password-document-the-authorized-support-route",
+        "title": "Dell firmware password: document the authorized support route | Simple Technologies",
+        "h1": "Dell firmware password: document the authorized support route",
+        "htmlDecodedBytes": 36744,
+        "htmlEncodedBytes": 7279,
+        "ttfbMs": 268.70000000018626,
+        "responseEndMs": 2087.7999999998137,
+        "domContentLoadedMs": 2480.899999999441,
+        "loadMs": 3394.5999999996275,
+        "fcpMs": 2488,
+        "lcp": {
+          "ms": 2488,
+          "element": "H1",
+          "text": "Dell firmware password: document the authorized support route",
+          "image": null
+        },
+        "cls": 0,
+        "longestTaskMs": 183,
+        "totalBlockingMs": 133,
+        "horizontalOverflow": false,
+        "requests": 15,
+        "transferredBytes": 176119,
+        "scriptBytes": 156244,
+        "imageBytes": 0,
+        "largestTransfers": [
+          {
+            "type": "Script",
+            "path": "/_next/static/immutable/chunks/0s3rzqvjjc5tt.js",
+            "status": 200,
+            "encodedBytes": 73030
+          },
+          {
+            "type": "Script",
+            "path": "/_next/static/immutable/chunks/2e5v3vseouhnh.js",
+            "status": 200,
+            "encodedBytes": 43644
+          },
+          {
+            "type": "Script",
+            "path": "/_next/static/immutable/chunks/3dhnnw9wupw8y.js",
+            "status": 200,
+            "encodedBytes": 11620
+          },
+          {
+            "type": "Script",
+            "path": "/_next/static/immutable/chunks/2u5v7xdlfh11m.js",
+            "status": 200,
+            "encodedBytes": 9092
+          },
+          {
+            "type": "Script",
+            "path": "/_next/static/immutable/chunks/2r0172hosnf0m.js",
+            "status": 200,
+            "encodedBytes": 8662
+          }
+        ],
+        "responseHeaders": {
+          "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
+          "x-vercel-cache": "MISS",
+          "x-vercel-id": "bom1::iad1::v7rmn-1790707199154-eaf2259dcc67",
+          "age": "0"
+        },
+        "preventedWrites": 1,
+        "errors": [],
+        "failedRequests": [
+          {
+            "path": "/solutions",
+            "error": "net::ERR_ABORTED",
+            "resourceType": "fetch",
+            "prefetch": true
+          }
+        ]
+      },
+      {
+        "kind": "article",
+        "run": 3,
+        "path": "/solutions/dell-firmware-password-document-the-authorized-support-route",
+        "title": "Dell firmware password: document the authorized support route | Simple Technologies",
+        "h1": "Dell firmware password: document the authorized support route",
+        "htmlDecodedBytes": 36744,
+        "htmlEncodedBytes": 7279,
+        "ttfbMs": 254.6000000005588,
+        "responseEndMs": 2261.5,
+        "domContentLoadedMs": 2663.2000000001863,
+        "loadMs": 3566.7000000001863,
+        "fcpMs": 2664,
+        "lcp": {
+          "ms": 2664,
+          "element": "H1",
+          "text": "Dell firmware password: document the authorized support route",
+          "image": null
+        },
+        "cls": 0,
+        "longestTaskMs": 182,
+        "totalBlockingMs": 132,
+        "horizontalOverflow": false,
+        "requests": 15,
+        "transferredBytes": 176090,
+        "scriptBytes": 156247,
+        "imageBytes": 0,
+        "largestTransfers": [
+          {
+            "type": "Script",
+            "path": "/_next/static/immutable/chunks/0s3rzqvjjc5tt.js",
+            "status": 200,
+            "encodedBytes": 73030
+          },
+          {
+            "type": "Script",
+            "path": "/_next/static/immutable/chunks/2e5v3vseouhnh.js",
+            "status": 200,
+            "encodedBytes": 43552
+          },
+          {
+            "type": "Script",
+            "path": "/_next/static/immutable/chunks/3dhnnw9wupw8y.js",
+            "status": 200,
+            "encodedBytes": 11620
+          },
+          {
+            "type": "Script",
+            "path": "/_next/static/immutable/chunks/2u5v7xdlfh11m.js",
+            "status": 200,
+            "encodedBytes": 9093
+          },
+          {
+            "type": "Script",
+            "path": "/_next/static/immutable/chunks/2r0172hosnf0m.js",
+            "status": 200,
+            "encodedBytes": 8582
+          }
+        ],
+        "responseHeaders": {
+          "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
+          "x-vercel-cache": "MISS",
+          "x-vercel-id": "bom1::iad1::sswx5-1790707204742-dea4dcff78be",
+          "age": "0"
+        },
+        "preventedWrites": 1,
+        "errors": [],
+        "failedRequests": [
+          {
+            "path": "/solutions",
+            "error": "net::ERR_ABORTED",
+            "resourceType": "fetch",
+            "prefetch": true
+          }
+        ]
+      }
+    ]
+  },
+  "after": {
+    "recordedAt": "2026-09-29T18:43:59.860Z",
+    "origin": "https://simple-technologies.vercel.app",
+    "chrome": "154.0.8037.57",
+    "profile": {
+      "device": "Pixel 7",
+      "latencyMs": 150,
+      "downloadBytesPerSecond": 209715.2,
+      "uploadBytesPerSecond": 96000,
+      "cpuSlowdown": 4,
+      "observationAfterLoadMs": 2000
+    },
+    "notes": [
+      "Fresh browser context and disabled browser cache for every navigation; CDN state is recorded, not controlled.",
+      "All non-read requests are blocked or mocked; engagement totals are untouched.",
+      "4x CPU slowdown and 1.6 Mbps/150 ms network emulation run on this host; this is not a Lighthouse score or field data.",
+      "CLS and long tasks cover navigation through two seconds after load; no scrolling, advertising consent or interactions are performed.",
+      "Total blocking milliseconds sums long-task excess over 50 ms over the observation window; it is not Lighthouse TBT.",
+      "INP requires real interaction/field measurement and is not reported by this script.",
+      "TTFB can describe a streamed document shell; response-end and LCP measure when the rest of the page arrives and appears.",
+      "Next.js may cancel speculative prefetches; failed GET requests are reported with their type and prefetch header."
+    ],
+    "medians": [
+      {
+        "kind": "home",
+        "path": "/",
+        "ttfbMs": 247.69999999925494,
+        "fcpMs": 832,
+        "lcpMs": 832,
+        "cls": 0,
+        "scriptBytes": 148002,
+        "transferredBytes": 168747,
+        "totalBlockingMs": 132
+      },
+      {
+        "kind": "article",
+        "path": "/solutions/dell-firmware-password-document-the-authorized-support-route",
+        "ttfbMs": 281.29999999981374,
+        "fcpMs": 1008,
+        "lcpMs": 1008,
+        "cls": 0,
+        "scriptBytes": 156456,
+        "transferredBytes": 181474,
+        "totalBlockingMs": 134
+      }
+    ],
+    "results": [
+      {
+        "kind": "home",
+        "run": 1,
+        "path": "/",
+        "title": "Simple Technologies \u2014 Practical computer fixes",
+        "h1": "What problem areyou trying to fix?",
+        "htmlDecodedBytes": 54221,
+        "htmlEncodedBytes": 6742,
+        "ttfbMs": 427.1000000005588,
+        "responseEndMs": 523.7000000001863,
+        "domContentLoadedMs": 914.4000000003725,
+        "loadMs": 1647.2999999998137,
+        "fcpMs": 916,
+        "lcp": {
+          "ms": 916,
+          "element": "P",
+          "text": "Find the symptoms. Understand the cause. Follow a clear solution.Computer troubleshooting, grounded in real repair cases",
+          "image": null
+        },
+        "cls": 0,
+        "longestTaskMs": 183,
+        "totalBlockingMs": 133,
+        "horizontalOverflow": false,
+        "requests": 17,
+        "transferredBytes": 168749,
+        "scriptBytes": 148006,
+        "imageBytes": 0,
+        "largestTransfers": [
+          {
+            "type": "Script",
+            "path": "/_next/static/immutable/chunks/3cb28iobvqk3a.js",
+            "status": 200,
+            "encodedBytes": 73097
+          },
+          {
+            "type": "Script",
+            "path": "/_next/static/immutable/chunks/2e5v3vseouhnh.js",
+            "status": 200,
+            "encodedBytes": 43580
+          },
+          {
+            "type": "Script",
+            "path": "/_next/static/immutable/chunks/33k9gs9tv8lz5.js",
+            "status": 200,
+            "encodedBytes": 11922
+          },
+          {
+            "type": "Script",
+            "path": "/_next/static/immutable/chunks/2u5v7xdlfh11m.js",
+            "status": 200,
+            "encodedBytes": 9120
+          },
+          {
+            "type": "Document",
+            "path": "/",
+            "status": 200,
+            "encodedBytes": 7654
+          }
+        ],
+        "responseHeaders": {
+          "cache-control": "public, max-age=0, must-revalidate",
+          "x-vercel-cache": "HIT",
+          "x-vercel-id": "bom1::hnd1::566wj-1790707377267-b231d03f1ead",
+          "age": "50"
+        },
+        "preventedWrites": 0,
+        "errors": [],
+        "failedRequests": [
+          {
+            "path": "/solutions/find-the-boot-menu-on-an-asus-laptop",
+            "error": "net::ERR_ABORTED",
+            "resourceType": "fetch",
+            "prefetch": true
+          },
+          {
+            "path": "/solutions/dell-firmware-password-document-the-authorized-support-route",
+            "error": "net::ERR_ABORTED",
+            "resourceType": "fetch",
+            "prefetch": true
+          }
+        ]
+      },
+      {
+        "kind": "home",
+        "run": 2,
+        "path": "/",
+        "title": "Simple Technologies \u2014 Practical computer fixes",
+        "h1": "What problem areyou trying to fix?",
+        "htmlDecodedBytes": 54221,
+        "htmlEncodedBytes": 6742,
+        "ttfbMs": 235.30000000074506,
+        "responseEndMs": 362.30000000074506,
+        "domContentLoadedMs": 736.5,
+        "loadMs": 1476.7000000001863,
+        "fcpMs": 736,
+        "lcp": {
+          "ms": 736,
+          "element": "P",
+          "text": "Find the symptoms. Understand the cause. Follow a clear solution.Computer troubleshooting, grounded in real repair cases",
+          "image": null
+        },
+        "cls": 0,
+        "longestTaskMs": 180,
+        "totalBlockingMs": 130,
+        "horizontalOverflow": false,
+        "requests": 17,
+        "transferredBytes": 168328,
+        "scriptBytes": 147983,
+        "imageBytes": 0,
+        "largestTransfers": [
+          {
+            "type": "Script",
+            "path": "/_next/static/immutable/chunks/3cb28iobvqk3a.js",
+            "status": 200,
+            "encodedBytes": 73048
+          },
+          {
+            "type": "Script",
+            "path": "/_next/static/immutable/chunks/2e5v3vseouhnh.js",
+            "status": 200,
+            "encodedBytes": 43586
+          },
+          {
+            "type": "Script",
+            "path": "/_next/static/immutable/chunks/33k9gs9tv8lz5.js",
+            "status": 200,
+            "encodedBytes": 11947
+          },
+          {
+            "type": "Script",
+            "path": "/_next/static/immutable/chunks/2u5v7xdlfh11m.js",
+            "status": 200,
+            "encodedBytes": 9093
+          },
+          {
+            "type": "Document",
+            "path": "/",
+            "status": 200,
+            "encodedBytes": 7661
+          }
+        ],
+        "responseHeaders": {
+          "cache-control": "public, max-age=0, must-revalidate",
+          "x-vercel-cache": "HIT",
+          "x-vercel-id": "bom1::hnd1::wxc5d-1790707380932-421cc036c154",
+          "age": "54"
+        },
+        "preventedWrites": 0,
+        "errors": [],
+        "failedRequests": [
+          {
+            "path": "/solutions/dell-firmware-password-document-the-authorized-support-route",
+            "error": "net::ERR_ABORTED",
+            "resourceType": "fetch",
+            "prefetch": true
+          },
+          {
+            "path": "/solutions/find-the-boot-menu-on-an-asus-laptop",
+            "error": "net::ERR_ABORTED",
+            "resourceType": "fetch",
+            "prefetch": true
+          }
+        ]
+      },
+      {
+        "kind": "home",
+        "run": 3,
+        "path": "/",
+        "title": "Simple Technologies \u2014 Practical computer fixes",
+        "h1": "What problem areyou trying to fix?",
+        "htmlDecodedBytes": 54221,
+        "htmlEncodedBytes": 6742,
+        "ttfbMs": 247.69999999925494,
+        "responseEndMs": 369.29999999981374,
+        "domContentLoadedMs": 828.8999999994412,
+        "loadMs": 1485.199999999255,
+        "fcpMs": 832,
+        "lcp": {
+          "ms": 832,
+          "element": "P",
+          "text": "Find the symptoms. Understand the cause. Follow a clear solution.Computer troubleshooting, grounded in real repair cases",
+          "image": null
+        },
+        "cls": 0,
+        "longestTaskMs": 182,
+        "totalBlockingMs": 132,
+        "horizontalOverflow": false,
+        "requests": 17,
+        "transferredBytes": 168747,
+        "scriptBytes": 148002,
+        "imageBytes": 0,
+        "largestTransfers": [
+          {
+            "type": "Script",
+            "path": "/_next/static/immutable/chunks/3cb28iobvqk3a.js",
+            "status": 200,
+            "encodedBytes": 73151
+          },
+          {
+            "type": "Script",
+            "path": "/_next/static/immutable/chunks/2e5v3vseouhnh.js",
+            "status": 200,
+            "encodedBytes": 43579
+          },
+          {
+            "type": "Script",
+            "path": "/_next/static/immutable/chunks/33k9gs9tv8lz5.js",
+            "status": 200,
+            "encodedBytes": 11892
+          },
+          {
+            "type": "Script",
+            "path": "/_next/static/immutable/chunks/2u5v7xdlfh11m.js",
+            "status": 200,
+            "encodedBytes": 9231
+          },
+          {
+            "type": "Document",
+            "path": "/",
+            "status": 200,
+            "encodedBytes": 7663
+          }
+        ],
+        "responseHeaders": {
+          "cache-control": "public, max-age=0, must-revalidate",
+          "x-vercel-cache": "HIT",
+          "x-vercel-id": "bom1::hnd1::fk7sm-1790707384614-d34e0eaaa135",
+          "age": "57"
+        },
+        "preventedWrites": 0,
+        "errors": [],
+        "failedRequests": [
+          {
+            "path": "/solutions/dell-firmware-password-document-the-authorized-support-route",
+            "error": "net::ERR_ABORTED",
+            "resourceType": "fetch",
+            "prefetch": true
+          },
+          {
+            "path": "/solutions/find-the-boot-menu-on-an-asus-laptop",
+            "error": "net::ERR_ABORTED",
+            "resourceType": "fetch",
+            "prefetch": true
+          }
+        ]
+      },
+      {
+        "kind": "article",
+        "run": 1,
+        "path": "/solutions/dell-firmware-password-document-the-authorized-support-route",
+        "title": "Dell firmware password: document the authorized support route | Simple Technologies",
+        "h1": "Dell firmware password: document the authorized support route",
+        "htmlDecodedBytes": 40690,
+        "htmlEncodedBytes": 7956,
+        "ttfbMs": 274,
+        "responseEndMs": 658,
+        "domContentLoadedMs": 1015.7999999998137,
+        "loadMs": 1975.9000000003725,
+        "fcpMs": 1020,
+        "lcp": {
+          "ms": 1020,
+          "element": "H1",
+          "text": "Dell firmware password: document the authorized support route",
+          "image": null
+        },
+        "cls": 0,
+        "longestTaskMs": 182,
+        "totalBlockingMs": 132,
+        "horizontalOverflow": false,
+        "requests": 19,
+        "transferredBytes": 182510,
+        "scriptBytes": 156531,
+        "imageBytes": 0,
+        "largestTransfers": [
+          {
+            "type": "Script",
+            "path": "/_next/static/immutable/chunks/3cb28iobvqk3a.js",
+            "status": 200,
+            "encodedBytes": 73133
+          },
+          {
+            "type": "Script",
+            "path": "/_next/static/immutable/chunks/2e5v3vseouhnh.js",
+            "status": 200,
+            "encodedBytes": 43585
+          },
+          {
+            "type": "Script",
+            "path": "/_next/static/immutable/chunks/33k9gs9tv8lz5.js",
+            "status": 200,
+            "encodedBytes": 12438
+          },
+          {
+            "type": "Script",
+            "path": "/_next/static/immutable/chunks/2u5v7xdlfh11m.js",
+            "status": 200,
+            "encodedBytes": 9093
+          },
+          {
+            "type": "Document",
+            "path": "/solutions/dell-firmware-password-document-the-authorized-support-route",
+            "status": 200,
+            "encodedBytes": 8918
+          }
+        ],
+        "responseHeaders": {
+          "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
+          "x-vercel-cache": "MISS",
+          "x-vercel-id": "bom1::hnd1::ns7wn-1790707388312-df1017a4678b",
+          "age": "0"
+        },
+        "preventedWrites": 1,
+        "errors": [],
+        "failedRequests": []
+      },
+      {
+        "kind": "article",
+        "run": 2,
+        "path": "/solutions/dell-firmware-password-document-the-authorized-support-route",
+        "title": "Dell firmware password: document the authorized support route | Simple Technologies",
+        "h1": "Dell firmware password: document the authorized support route",
+        "htmlDecodedBytes": 40690,
+        "htmlEncodedBytes": 7956,
+        "ttfbMs": 281.29999999981374,
+        "responseEndMs": 591.7000000001863,
+        "domContentLoadedMs": 998,
+        "loadMs": 1905.0999999996275,
+        "fcpMs": 1000,
+        "lcp": {
+          "ms": 1000,
+          "element": "H1",
+          "text": "Dell firmware password: document the authorized support route",
+          "image": null
+        },
+        "cls": 0,
+        "longestTaskMs": 185,
+        "totalBlockingMs": 135,
+        "horizontalOverflow": false,
+        "requests": 19,
+        "transferredBytes": 181474,
+        "scriptBytes": 156456,
+        "imageBytes": 0,
+        "largestTransfers": [
+          {
+            "type": "Script",
+            "path": "/_next/static/immutable/chunks/3cb28iobvqk3a.js",
+            "status": 200,
+            "encodedBytes": 73048
+          },
+          {
+            "type": "Script",
+            "path": "/_next/static/immutable/chunks/2e5v3vseouhnh.js",
+            "status": 200,
+            "encodedBytes": 43648
+          },
+          {
+            "type": "Script",
+            "path": "/_next/static/immutable/chunks/33k9gs9tv8lz5.js",
+            "status": 200,
+            "encodedBytes": 12064
+          },
+          {
+            "type": "Script",
+            "path": "/_next/static/immutable/chunks/2u5v7xdlfh11m.js",
+            "status": 200,
+            "encodedBytes": 9093
+          },
+          {
+            "type": "Document",
+            "path": "/solutions/dell-firmware-password-document-the-authorized-support-route",
+            "status": 200,
+            "encodedBytes": 8918
+          }
+        ],
+        "responseHeaders": {
+          "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
+          "x-vercel-cache": "MISS",
+          "x-vercel-id": "bom1::hnd1::mprw9-1790707392473-3e1425cd49a2",
+          "age": "0"
+        },
+        "preventedWrites": 1,
+        "errors": [],
+        "failedRequests": [
+          {
+            "path": "/solutions",
+            "error": "net::ERR_ABORTED",
+            "resourceType": "fetch",
+            "prefetch": true
+          }
+        ]
+      },
+      {
+        "kind": "article",
+        "run": 3,
+        "path": "/solutions/dell-firmware-password-document-the-authorized-support-route",
+        "title": "Dell firmware password: document the authorized support route | Simple Technologies",
+        "h1": "Dell firmware password: document the authorized support route",
+        "htmlDecodedBytes": 40690,
+        "htmlEncodedBytes": 7956,
+        "ttfbMs": 290.09999999962747,
+        "responseEndMs": 606.0999999996275,
+        "domContentLoadedMs": 998.4000000003725,
+        "loadMs": 1920.2999999998137,
+        "fcpMs": 1008,
+        "lcp": {
+          "ms": 1008,
+          "element": "H1",
+          "text": "Dell firmware password: document the authorized support route",
+          "image": null
+        },
+        "cls": 0,
+        "longestTaskMs": 184,
+        "totalBlockingMs": 134,
+        "horizontalOverflow": false,
+        "requests": 19,
+        "transferredBytes": 180504,
+        "scriptBytes": 156449,
+        "imageBytes": 0,
+        "largestTransfers": [
+          {
+            "type": "Script",
+            "path": "/_next/static/immutable/chunks/3cb28iobvqk3a.js",
+            "status": 200,
+            "encodedBytes": 73047
+          },
+          {
+            "type": "Script",
+            "path": "/_next/static/immutable/chunks/2e5v3vseouhnh.js",
+            "status": 200,
+            "encodedBytes": 43999
+          },
+          {
+            "type": "Script",
+            "path": "/_next/static/immutable/chunks/33k9gs9tv8lz5.js",
+            "status": 200,
+            "encodedBytes": 11960
+          },
+          {
+            "type": "Script",
+            "path": "/_next/static/immutable/chunks/2u5v7xdlfh11m.js",
+            "status": 200,
+            "encodedBytes": 9093
+          },
+          {
+            "type": "Document",
+            "path": "/solutions/dell-firmware-password-document-the-authorized-support-route",
+            "status": 200,
+            "encodedBytes": 8919
+          }
+        ],
+        "responseHeaders": {
+          "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
+          "x-vercel-cache": "MISS",
+          "x-vercel-id": "bom1::hnd1::crpjv-1790707396571-d389e6b8fb0e",
+          "age": "0"
+        },
+        "preventedWrites": 1,
+        "errors": [],
+        "failedRequests": [
+          {
+            "path": "/solutions",
+            "error": "net::ERR_ABORTED",
+            "resourceType": "fetch",
+            "prefetch": true
+          },
+          {
+            "path": "/solutions",
+            "error": "net::ERR_ABORTED",
+            "resourceType": "fetch",
+            "prefetch": true
+          }
+        ]
+      }
+    ]
+  }
+}
